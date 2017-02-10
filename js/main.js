@@ -49,9 +49,9 @@ galImg.on('mouseleave', function() {
 
 //video
 var iframe = $('.video iframe');
-var videoHero = iframe.getElementsByClassName('video')[0];
-console.log(videoHero);
-console.log('aaa');
+// var videoHero = iframe.getElementsByClassName('video')[0];
+// console.log(videoHero);
+// console.log('aaa');
 iframeWidth();
 
 function iframeWidth() {
